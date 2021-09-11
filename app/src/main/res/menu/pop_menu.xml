@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fp1"
+        android:title="Fp1" />
+    <item
+        android:id="@+id/fp2"
+        android:title="Fp2"/>
+    <item
+        android:id="@+id/f7"
+        android:title="F7"/>
+    <item
+        android:id="@+id/f8"
+        android:title="F8"/> <item
+    android:id="@+id/f3"
+    android:title="F3"/> <item
+    android:id="@+id/f4"
+    android:title="F4"/> <item
+    android:id="@+id/t3"
+    android:title="T3"/> <item
+    android:id="@+id/t4"
+    android:title="T4"/> <item
+    android:id="@+id/c3"
+    android:title="C3"/> <item
+    android:id="@+id/c4"
+    android:title="C4"/> <item
+    android:id="@+id/t5"
+    android:title="T5"/> <item
+    android:id="@+id/t6"
+    android:title="T6"/> <item
+    android:id="@+id/p3"
+    android:title="P3"/> <item
+    android:id="@+id/p4"
+    android:title="P4"/> <item
+    android:id="@+id/_01"
+    android:title="_01"/> <item
+    android:id="@+id/_02"
+    android:title="_02"/> <item
+    android:id="@+id/a1"
+    android:title="A1"/> <item
+    android:id="@+id/a2"
+    android:title="A2"/> <item
+    android:id="@+id/fz"
+    android:title="FZ"/> <item
+    android:id="@+id/cz"
+    android:title="CZ"/> <item
+    android:id="@+id/pz"
+    android:title="PZ"/> <item
+    android:id="@+id/ex1"
+    android:title="EX1"/> <item
+    android:id="@+id/ex2"
+    android:title="EX2"/> <item
+    android:id="@+id/ex3"
+    android:title="EX3"/> <item
+    android:id="@+id/ex4"
+    android:title="EX4"/> <item
+    android:id="@+id/ex5"
+    android:title="EX5"/> <item
+    android:id="@+id/ex6"
+    android:title="EX6"/> <item
+    android:id="@+id/ex7"
+    android:title="EX7"/> <item
+    android:id="@+id/ex8"
+    android:title="EX8"/> <item
+    android:id="@+id/ecg"
+    android:title="ECG"/> <item
+    android:id="@+id/emg"
+    android:title="EMG"/> <item
+    android:id="@+id/ch32"
+    android:title="CH32"/>
+</menu>
