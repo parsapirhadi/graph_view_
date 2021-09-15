@@ -20,6 +20,7 @@ import com.example.myapplication.p.SetValue;
 import com.jjoe64.graphview.GraphView;
 
 public class MainActivity extends Activity {
+
 CountValue countValue;
 TextView textView;
 Button button;
